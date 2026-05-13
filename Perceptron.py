@@ -77,5 +77,5 @@ class Perceptron:
                     f.write("Sum Square Error(SSE) mencapai target.\n" if epoch + 1 != self.epoch else "max epoch tercapai.\n")
                     # Menuliskan bobot terakhir
                     f.write(f"\nBobot akhir:{self.w_[1:]}\n")
-                    f.write(f"Bias akhirbreak:{self.w_[0]}")
+                    f.write(f"Bias akhir:{self.w_[0]}")
                     break
