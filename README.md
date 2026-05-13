@@ -165,9 +165,14 @@ Program ini menerapkan metode Backpropagation untuk menyelesaikan logika XOR bip
 ## Install Library
 ```bash
 pip install numpy matplotlib
+```
 
 ## Menjalankan Perceptron
+```bash
 python Perceptron_or.py
+```
 
 ## Menjalankan Backpropagation
+```bash
 python Backpropagation_xor.py
+```
