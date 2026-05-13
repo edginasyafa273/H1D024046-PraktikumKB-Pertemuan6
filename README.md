@@ -47,8 +47,12 @@ Pada bagian ini, dibangun sebuah model JST dengan arsitektur *Single-Layer Perce
 - Memunculkan grafik *Decision Boundary* secara visual (memanfaatkan `matplotlib`) pada setiap epoch.
 - Rincian hasil komputasi yang meliputi nilai bobot, bias, serta besaran error di tiap langkah iterasi akan disimpan ke dalam berkas `HasilPerceptron.txt`.
 
-#### f. Cuplikan Grafik Perceptron
-![Grafik Perceptron](outputgrafik1.jpeg)
+#### f. <img width="640" height="480" alt="Figure_4" src="https://github.com/user-attachments/assets/9e1834ac-acc0-4ce0-84e1-7fb2c08662ea" />
+Grafik Perceptron
+<img width="640" height="480" alt="Figure_3" src="https://github.com/user-attachments/assets/86ea3606-a9a3-48df-9e37-5a12deaf6caf" />
+<img width="640" height="480" alt="Figure_2" src="https://github.com/user-attachments/assets/47e75565-831c-4abf-b955-6c13a67cabdf" />
+<img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/4e2e6708-22b7-4d55-865b-b68866f19d8f" />
+
 
 ---
 
@@ -110,8 +114,8 @@ Kode ini menyajikan model JST jenis Backpropagation yang memiliki arsitektur *mu
 - Menampilkan grafik visual penurunan nilai error SSE per iterasi menggunakan `matplotlib`.
 - Rincian komputasi maju-mundur secara keseluruhan (termasuk update bobot maupun rekap nilai SSE) dicetak dan diamankan ke dalam `hasilBackpropagation.txt`.
 
-#### g. Cuplikan Grafik Backpropagation
-![Grafik Backpropagation](outputgrafik2.jpeg)
+#### g. Grafik Backpropagation
+<img width="640" height="480" alt="Figure_4" src="https://github.com/user-attachments/assets/c1a6802d-43c9-4ce5-87e2-30c443d4b4f1" />
 
 ---
 
