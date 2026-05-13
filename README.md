@@ -4,7 +4,7 @@ Repositori pengumpulan tugas praktikum mata kuliah Kecerdasan Buatan (Pertemuan 
 ## Implementasi Jaringan Syaraf Tiruan (JST) Dasar
 Proyek ini memuat kode implementasi dua buah model komputasi Jaringan Syaraf Tiruan (JST) yang ditulis menggunakan Python. Model yang dibuat mencakup algoritma Perceptron guna memecahkan logika OR, serta algoritma Backpropagation untuk menangani logika XOR.
 
-### 1. Eksperimen 1: Logika OR dengan Model Perceptron (`Perceptron.py` & `Perceptron_or.py`)
+### 1. Studi Kasus 1: Logika OR dengan Model Perceptron (`Perceptron.py` & `Perceptron_or.py`)
 Pada bagian ini, dibangun sebuah model JST dengan arsitektur *Single-Layer Perceptron* yang bertujuan mengklasifikasikan operasi logika OR. Data yang diproses direpresentasikan dalam bentuk bipolar.
 
 #### a. Konfigurasi Pelatihan
@@ -54,7 +54,7 @@ Pada bagian ini, dibangun sebuah model JST dengan arsitektur *Single-Layer Perce
 
 ---
 
-### 2. Eksperimen 2: Logika XOR dengan Model Backpropagation (`Backpropagation.py` & `Backpropagation_xor.py`)
+### 2. Studi Kasus 2: Logika XOR dengan Model Backpropagation (`Backpropagation.py` & `Backpropagation_xor.py`)
 Kode ini menyajikan model JST jenis Backpropagation yang memiliki arsitektur *multi-layer* guna menyelesaikan kendala pemisahan non-linear pada gerbang XOR. Karena kasus XOR tergolong data yang tidak *linearly separable*, model butuh disisipi oleh *hidden layer*.
 
 #### a. Konfigurasi Pelatihan
@@ -147,9 +147,9 @@ Kode ini menyajikan model JST jenis Backpropagation yang memiliki arsitektur *mu
 # Lakukan instalasi modul yang wajib ada
 pip install numpy matplotlib
 
-# Eksekusi Eksperimen 1: Model Perceptron (Logika OR)
+# Eksekusi Studi Kasus 1: Model Perceptron (Logika OR)
 python Perceptron_or.py
 
-# Eksekusi Eksperimen 2: Model Backpropagation (Logika XOR)
+# Eksekusi Studi Kasus 2: Model Backpropagation (Logika XOR)
 python Backpropagation_xor.py
 ```
