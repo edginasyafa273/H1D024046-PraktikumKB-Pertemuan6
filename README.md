@@ -48,10 +48,9 @@ Pada bagian ini, dibangun sebuah model JST dengan arsitektur *Single-Layer Perce
 - Rincian hasil komputasi yang meliputi nilai bobot, bias, serta besaran error di tiap langkah iterasi akan disimpan ke dalam berkas `HasilPerceptron.txt`.
 
 #### f. Grafik Perceptron
-<img width="640" height="480" alt="Figure_3" src="https://github.com/user-attachments/assets/86ea3606-a9a3-48df-9e37-5a12deaf6caf" />
-<img width="640" height="480" alt="Figure_2" src="https://github.com/user-attachments/assets/47e75565-831c-4abf-b955-6c13a67cabdf" />
 <img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/4e2e6708-22b7-4d55-865b-b68866f19d8f" />
-
+<img width="640" height="480" alt="Figure_2" src="https://github.com/user-attachments/assets/47e75565-831c-4abf-b955-6c13a67cabdf" />
+<img width="640" height="480" alt="Figure_3" src="https://github.com/user-attachments/assets/86ea3606-a9a3-48df-9e37-5a12deaf6caf" />
 
 ---
 
